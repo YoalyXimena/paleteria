@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440933248488",
+    "project_id": "paleteriadjn-1b11d",
+    "storage_bucket": "paleteriadjn-1b11d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440933248488:android:882c11c2494eb6b64a485d",
+        "android_client_info": {
+          "package_name": "com.example.paleteriadjn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440933248488-ebt3o35gkj2qdv6dj38glretjobi2mbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_aYXMzndSGMLqah6icfVnSyJpzsAuQMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440933248488-ebt3o35gkj2qdv6dj38glretjobi2mbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

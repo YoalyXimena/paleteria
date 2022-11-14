@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PaleteriaDJN</string>
+    <string name="strCrear_Cuenta"> <u>Crear Cuenta</u> </string>
+    <string name="strOlvidar"> <u>Olvide mi contraseña</u> </string>
+    <string name="id_de_producto">ID de Producto</string>
+
+</resources>
